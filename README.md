@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 내 깃허브 활동
-![Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon5450&show_icons=true&theme=radical)
 
 ### 기술 스택
 FRONT-END
