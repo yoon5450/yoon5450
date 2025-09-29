@@ -1,10 +1,8 @@
-## Hi there 👋
-
-### 내 깃허브 활동
+## Summary
 ![Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon5450&show_icons=true&theme=radical)
 
-### 기술 스택
-FRONT-END
+## Stack
+###FRONT-END
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
